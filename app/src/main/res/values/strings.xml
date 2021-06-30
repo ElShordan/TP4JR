@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pantalla Principal</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="logo_login">Logo Login</string>
+    <string name="loginText">LOGIN</string>
+    <string name="nombre_usuario">Nombre de Usuario</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">Registrar</string>
+    <string name="logo_registro">Logo Registro</string>
+    <string name="usuarios">USUARIOS</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="nombre_usuario2">Nombre Usuario</string>
+    <string name="correo_electronico">Correo Electrónico</string>
+    <string name="contrasenia2">Contraseña</string>
+    <string name="repetir_contrasenia">Repetir Contraseña</string>
+    <string name="grabar">Grabar</string>
+    <string name="loginButton">Login</string>
+    <string name="datos">Datos del programador:</string>
+    <string name="logo_principal">Logo Principal</string>
+    <string name="txt_programador">Usuario - JordanR</string>
+    <string name="txt_nomCom">Nombre Completo - Jordán Redondo</string>
+    <string name="txt_corrElec">Correo electrónico - queseyo@gmail.com</string>
+    <string name="correo_contacto">Correo Contacto</string>
+    <string name="llamada_tel">Llamada Telefónica</string>
+    <string name="sitio_web">Sitio Web</string>
+</resources>
